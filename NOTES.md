@@ -6,6 +6,11 @@
 
 
 
+$fetch 
+    https://github.com/unjs/ohmyfetch
+
+
+
 Examples    
     https://nuxtjs.org/examples/routing/dynamic-pages
 
