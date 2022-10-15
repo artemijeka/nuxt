@@ -1,15 +1,19 @@
 {
 	"folders": [
 		{
+			"name": "js",
 			"path": "../js"
 		},
 		{
-			"path": "."
-		},
-		{
+			"name": "vue",
 			"path": "../vue"
 		},
 		{
+			"name": "nuxt",
+			"path": "."
+		},
+		{
+			"name": "wp",
 			"path": "../wp"
 		}
 	]
